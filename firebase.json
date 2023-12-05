@@ -1,6 +1,6 @@
 {
   "hosting": {
-    site: "lukavadu",
+    "site": "lukavadu",
     "public": "public",
     "ignore": [
       "firebase.json",
