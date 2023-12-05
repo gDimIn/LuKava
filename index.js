@@ -28,7 +28,7 @@ app.get('/', (req, res) =>{
 app.use(express.static(path.join(__dirname,'public')))
 
 app.listen(PORT, ()=>{
-    console.log(`Server started: http//localhost:${PORT}`)
+    console.log(`Server started: https://lukavadu.web.app:${PORT}`)
 })
 
 /*fs.writeFile("./testjson.txt", "My string", () => {
