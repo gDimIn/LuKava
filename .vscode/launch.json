@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://lukavadu.firebaseapp.com/",
+            "request": "launch",
+            "url": "https://lukavadu.firebaseapp.com/"
+        }
+    ]
+}
