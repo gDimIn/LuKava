@@ -7,7 +7,7 @@ const app = express()
 const PORT = 9005
 
 app.set('view engine', 'ejs')
-app.set('views',path.join(__dirname, 'views'))
+app.set('views',path.join(__dirname, 'public/views'))
 
 let num = 5
 let names = ["Dima", "Oleg","Julia","Katya","Sveta"] 
