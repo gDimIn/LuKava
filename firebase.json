@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "LuKava",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
