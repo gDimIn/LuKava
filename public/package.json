@@ -4,7 +4,7 @@
   "description": "TestVersion",
   "main": "app.js",
   "scripts": {
-    "build": "node index.js"
+    "build": "node app.js"
   },
   "author": "Diman",
   "license": "ISC",
