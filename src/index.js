@@ -4,10 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = document.getElementById('root')
+const root = ReactDOM.createRoot( document.getElementById('root') )
 const elements = <input placeholder='Any text'/>
 
-ReactDOM.render(elements, root)
+root.render(elements)
 /*const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <ReactDOM.input> Test input </input>
